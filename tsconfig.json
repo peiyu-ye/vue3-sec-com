@@ -5,7 +5,7 @@
 		"module": "esnext",
 		"moduleResolution": "node",
     "isolatedModules": true,
-    "types": ["vite/client"],
+    "types": ["vite/client", "element-plus/global"],
 
 		/* Strict Type-Checking Options */
 		"strict": true /* Enable all strict type-checking options. */,

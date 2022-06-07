@@ -1,13 +1,16 @@
 {
   "name": "vue3-sec-com",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "description": "本地npm包测试以及二次封装",
+	"author": "peiyu <1289170688@qq.com>",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
+    "element-plus": "^2.2.4",
     "vue": "^3.2.36",
     "vue-router": "^4.0.15"
   },
